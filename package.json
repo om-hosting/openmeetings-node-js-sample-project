@@ -1,0 +1,28 @@
+{
+  "name": "openmeetings-node-js-sample-project",
+  "version": "1.0.0",
+  "description": "Example OpenMeetings Node plain JS Project using openmeetings-node-client module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/om-hosting/openmeetings-node-js-sample-project.git"
+  },
+  "keywords": [
+    "openmeetings",
+    "example-project",
+    "rest"
+  ],
+  "author": "Sebastian Wagner",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/om-hosting/openmeetings-node-js-sample-project/issues"
+  },
+  "homepage": "https://github.com/om-hosting/openmeetings-node-js-sample-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "openmeetings-node-client": "^1.0.8"
+  }
+}
